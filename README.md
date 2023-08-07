@@ -4,6 +4,6 @@
 - Context,
 - Routing
 ____________________________________________________
- [Карточки](C:\Users\Karina\Documents\react__img\react-cards.png)
+ ![Карточки](C:\Users\Karina\Documents\react__img\react-cards.png)
 
 <img src="file:///(C:/Users/Karina/Documents/react__img/react-cards.png />
