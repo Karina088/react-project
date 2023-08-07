@@ -6,5 +6,5 @@ ____________________________________________________
 - [x] Context,
 - [x] Routing
 
-![Cards](https://github.com/Karina088/react__img/raw/master/react-project/react-cards.png)
+![Cards](https://github.com/Karina088/react-project/raw/master/react__img/react-cards.png)
 
