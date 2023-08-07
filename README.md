@@ -8,3 +8,5 @@ ____________________________________________________
 
 ![Cards](https://github.com/Karina088/react-project/raw/master/react__img/react-cards.png)
 
+![Form](https://github.com/Karina088/react-project/raw/master/react__img/react-form.png)
+
